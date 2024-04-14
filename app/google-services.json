@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "95746856995",
+    "firebase_url": "https://kuih-station-application-default-rtdb.firebaseio.com",
+    "project_id": "kuih-station-application",
+    "storage_bucket": "kuih-station-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95746856995:android:5e2f678117fc1a474fb996",
+        "android_client_info": {
+          "package_name": "com.example.adminkuihstationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95746856995-0r77lsau5s2a3139s86kapn01g29bhiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBA6WGJRee3We0NHU-dsJP7hofL2S9qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95746856995-0r77lsau5s2a3139s86kapn01g29bhiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95746856995:android:82c6a8c860be3b154fb996",
+        "android_client_info": {
+          "package_name": "com.example.kuihstationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95746856995-0r77lsau5s2a3139s86kapn01g29bhiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBA6WGJRee3We0NHU-dsJP7hofL2S9qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95746856995-0r77lsau5s2a3139s86kapn01g29bhiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
